@@ -1,0 +1,18 @@
+OPENAI_ENDPOINT: http://127.0.0.1:5000
+OPENAI_API_KEY: 9af77722e9ebe943e64e936fe2bfdffe
+MODEL: Llama3.3-70B-4.25bpw
+MAX_TOKENS: 2048
+
+# OPENAI_ENDPOINT: https://api.deepseek.com
+# OPENAI_API_KEY: sk-04b1e04a38b65b43dfb64fc49af0e351
+# # MODEL: deepseek-chat
+# # MAX_TOKENS: 2048
+# MODEL: deepseek-reasoner
+# MAX_TOKENS: 16384
+
+# OPENAI_ENDPOINT: https://api.openai.com
+# OPENAI_API_KEY: sk-proj--dwuPJofiA_qkcucacJ7S5iU91OEbIGoZ3pIQ8C5ExOsxFLT-JVjKzt3MjFkJrUB_qDTG6v_MxDx59cq70pOApRil0IaxJIO9C6bkOFcoGrXLcrF3ri_lzu9YAjZyvJ1TwkK0CHlSpl_dA99eyy1UFfeAl85
+# MODEL: gpt-4o-mini
+# MAX_TOKENS: 2048
+# # MODEL: o3-mini
+# # MAX_TOKENS: 16384

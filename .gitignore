@@ -1,0 +1,7 @@
+# Ignore misc folders
+__pycache__/
+testing/
+# Ignore config and generated files
+/config.yaml
+/solution.py
+/test.py
